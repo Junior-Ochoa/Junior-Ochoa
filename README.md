@@ -1,4 +1,4 @@
-# Olá! Eu sou Junior Ochoa!
+# Olá! Eu sou Junior Ochoa.
 ### Seja Bem-vindo <br/> <br/>
 
 ![Junior-Ochoa GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark)<br/><br/>
