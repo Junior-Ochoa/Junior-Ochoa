@@ -1,13 +1,8 @@
 # Olá! Eu sou Junior Ochoa!
 ### Seja Bem-vindo <br/> <br/>
 
-
-### Redes sociais✔
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jjuniorochoa)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992478914/?text=Olá)
-
-![Junior-Ochoa GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark)
+![Junior-Ochoa GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens que estou aprendendo
 
@@ -18,4 +13,8 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   </div> <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ### Redes sociais✔
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jjuniorochoa)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517992478914/?text=Olá)
+
