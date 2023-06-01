@@ -7,6 +7,7 @@
 
 
 ![Junior-Ochoa GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens que estou aprendendo
 
