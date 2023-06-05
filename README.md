@@ -1,8 +1,8 @@
 # Olá! Eu sou Junior Ochoa.
 ### Seja Bem-vindo <br/> <br/>
 
-![Junior-Ochoa GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark)<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Junior-Ochoa GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark)<br/>
+
 
 ### Linguagens que estou aprendendo
 
@@ -12,6 +12,9 @@
    <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   </div> <br/>
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   ### Redes sociais✔
 
