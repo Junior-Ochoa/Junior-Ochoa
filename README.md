@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/Junior-Ochoa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact" alt="Junio-Ochoa"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact&theme=dark" alt="Junio-Ochoa"/>
 </div>
 
 ### Linguagens e tecnologias
