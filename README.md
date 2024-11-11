@@ -8,7 +8,7 @@
 </div>
 
 ### Evoluindo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigh="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigh="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigh="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigh="40"/> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="40" heigh="40"/>  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" width="40" heigh="40"/>
 <hr/>
 
 ### Estudo
