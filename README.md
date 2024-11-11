@@ -6,13 +6,12 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact&theme=dark" alt="Junio-Ochoa"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dark"/>
 </div>
+
+### Evoluindo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigh="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigh="40"/>
 <hr/>
 
-### Evolving:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigh="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" heigh="40" />
-<hr/>
-
-### Study:
+### Estudo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" heigh="40"/>
   
 <hr/>
