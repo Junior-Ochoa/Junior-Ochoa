@@ -1,1 +1,57 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # atualiza todo dia
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # 📌 Base
+          user: Junior-Ochoa
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+
+          # 🎨 Tema
+          config_display: large
+          config_animations: true
+          config_padding: 8%
+          config_twemoji: true
+          config_order: base.header, languages, activity, repositories
+
+          # 💻 Linguagens
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # 🔥 Atividade
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_limit: 5
+          plugin_activity_filter: issue, pr, release, commit
+
+          # 📊 Repositórios
+          plugin_repositories: yes
+          plugin_repositories_featured: react, typescript
+
+          # 📈 Conquistas
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+
+          # 📆 Calendário
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
 
