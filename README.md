@@ -1,42 +1,56 @@
-<h1 align="center">Oi 👋 meu nome é Junior Ochôa!</h1>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=100&section=header&reversal=false&animation=fadeIn" alt="Banner Background" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Oi%2C+eu+sou+Junior+Och%C3%B4a;Transformando+ideias+em+c%C3%B3digo;Frontend+%26+Mobile+Developer)
+
+<br>
+
+**Focado em criar interfaces incríveis e experiências fluidas**
+
 </div>
 
-###
+---
+
+### 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+**[Meu Portfólio](https://github.com/junior-ochoa)** — Confira meus trabalhos mais recentes  
+`React` · `TypeScript` · `Tailwind`
+
 </div>
 
-###
+---
+
+### 🛠️ Minha Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Junior-Ochoa&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dracula&locale=pt-br&count_private=true" height="150" alt="stats graph"/>  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,css,html,tailwind,git,vscode,nodejs" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junior-Ochoa/Junior-Ochoa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junior-Ochoa/Junior-Ochoa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Junior-Ochoa/Junior-Ochoa/output/pacman-contribution-graph.svg">
-</picture>
+### 📈 GitHub Status
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junior-ochoa&show_icons=true&theme=dracula&locale=pt-br&count_private=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junior-ochoa&theme=dracula" alt="Streak" />
+</div>
 
-###
-    
- 
+---
 
+### 🔗 Vamos nos conectar?
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junior-ochoa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junior-ochoa)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademirks@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+<sub>Construindo o futuro, um commit de cada vez 🚀</sub>
+</div>
