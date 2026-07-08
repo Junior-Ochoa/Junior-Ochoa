@@ -14,14 +14,6 @@
 
 ---
 
-### <div align="center">Minhas Stacks</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,mysql,git,vscode" />
-</div>
-
----
-
 ### <div align="center">🚀 Projetos em Destaque</div>
 
 | Projeto | Descrição | Tecnologias | Acessar |
@@ -52,6 +44,14 @@
 
 📚 Buscando escrever aplicações cada vez mais performáticas, escaláveis e com excelente experiência para o usuário.
 
+</div>
+
+---
+
+### <div align="center">Minhas Stacks</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,mysql,git,vscode" />
 </div>
 
 ---
