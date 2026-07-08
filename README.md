@@ -14,7 +14,7 @@
 
 ---
 
-### <div align="center"> Minhas Stacks </div>
+### <div align="center">Minhas Stacks</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,mysql,git,vscode" />
@@ -22,12 +22,33 @@
 
 ---
 
-### <div align="center"> Projetos em Destaque </div>
-                        
+### <div align="center">🚀 Projetos em Destaque</div>
+
+| Projeto | Descrição | Tecnologias | Status |
+|:--------|:----------|:------------|:------:|
+| 🩺 **VitaCore Platform** | Plataforma SaaS para gestão integrada da área da saúde, desenvolvida com foco em performance, escalabilidade e excelente experiência do usuário. | React • Next.js • TypeScript • Node.js • Supabase • REST API | 🔒 Privado |
+| 💻 **Repositórios Públicos** | Estudos, componentes reutilizáveis e projetos desenvolvidos ao longo da minha evolução como desenvolvedor Full Stack. | React • TypeScript • JavaScript • Node.js | 🌐 Público |
+
 <div align="center">
-                          
- — Confira meus trabalhos mais recentes  
-                        
+
+➡️ **Confira todos os meus repositórios públicos**
+
+<a href="https://github.com/Junior-Ochoa?tab=repositories">github.com/Junior-Ochoa</a>
+
+</div>
+
+---
+
+### <div align="center">🚀 Atualmente</div>
+
+<div align="center">
+
+🩺 Desenvolvendo o **VitaCore Platform**, uma plataforma SaaS para gestão na área da saúde.
+
+⚡ Evoluindo continuamente em **Next.js**, **Node.js**, **Supabase** e arquitetura de software.
+
+📚 Buscando escrever aplicações cada vez mais performáticas, escaláveis e com excelente experiência para o usuário.
+
 </div>
 
 ---
@@ -47,10 +68,9 @@
   </tr>
 </table>
 
-
 ---
 
-### <div aligmn="center">Vamos nos conectar? </div>
+### <div align="center">Vamos nos conectar?</div>
 
 <div align="center">
 
@@ -65,4 +85,3 @@
 <div align="center">
 <sub>Construindo soluções, um commit de cada vez 🚀</sub>
 </div>
-
