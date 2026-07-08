@@ -37,13 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junior-ochoa&theme=dracula" alt="Streak" />
 </div>
 
----
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Junior-Ochoa/Junior-Ochoa/main/github-metrics.svg" />
-</div>
 
 ---
 
