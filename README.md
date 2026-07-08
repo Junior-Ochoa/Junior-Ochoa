@@ -2,45 +2,50 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=100&section=header&reversal=false&animation=fadeIn" alt="Banner Background" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Oi%2C+eu+sou+Junior+Och%C3%B4a;Transformando+ideias+em+c%C3%B3digo;Frontend+%26+Mobile+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=600&lines=Oi%2C+eu+sou+Junior+Och%C3%B4a;Transformando+ideias+em+c%C3%B3digo;)
 
 <br>
 
-**Focado em criar interfaces incríveis e experiências fluidas**
+**Desenvolvedor Full Stack com foco em React, Next.js, TypeScript e Node.js.**
+
+*Apaixonado por criar aplicações modernas, performáticas e escaláveis, sempre buscando escrever código limpo e proporcionar uma excelente experiência ao usuário.*
 
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### <div align="center"> Minhas Stacks </div> </br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,mysql,git,vscode" />
+</div>
+
+---
+
+### <div align="center"> Projetos em Destaque </div> </br>
+                        
+<div align="center">
+                          
+ — Confira meus trabalhos mais recentes  
+                        
+</div>
+
+---
+
+### <div align="center">GitHub Status</div>
 
 <div align="center">
 
-**[Meu Portfólio](https://github.com/junior-ochoa)** — Confira meus trabalhos mais recentes  
-`React` · `TypeScript` · `Tailwind`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=html,css&cache_seconds=86400"/>
 
----
-
-### 🛠️ Minha Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,css,html,tailwind,git,vscode,nodejs" />
-</div>
-
----
-
-### 📈 GitHub Status
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junior-ochoa&show_icons=true&theme=dracula&locale=pt-br&count_private=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junior-ochoa&theme=dracula" alt="Streak" />
 </div>
 
 
 ---
 
-### 🔗 Vamos nos conectar?
+### <div aligmn="center">Vamos nos conectar? </div>
 
 <div align="center">
 
@@ -53,5 +58,5 @@
 ---
 
 <div align="center">
-<sub>Construindo o futuro, um commit de cada vez 🚀</sub>
+<sub>Construindo soluções, um commit de cada vez 🚀</sub>
 </div>
