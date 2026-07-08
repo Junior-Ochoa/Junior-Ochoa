@@ -14,7 +14,7 @@
 
 ---
 
-### <div align="center"> Minhas Stacks </div> </br>
+### <div align="center"> Minhas Stacks </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,supabase,mysql,git,vscode" />
@@ -22,7 +22,7 @@
 
 ---
 
-### <div align="center"> Projetos em Destaque </div> </br>
+### <div align="center"> Projetos em Destaque </div>
                         
 <div align="center">
                           
@@ -32,15 +32,20 @@
 
 ---
 
-### <div align="center">GitHub Status</div>
+### <div align="center">Estatísticas do GitHub</div>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=html,css&cache_seconds=86400"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="170"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Junior-Ochoa&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github"/>
+    </td>
+    <td>
+      <img height="170"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Junior-Ochoa&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=html,css"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -60,3 +65,4 @@
 <div align="center">
 <sub>Construindo soluções, um commit de cada vez 🚀</sub>
 </div>
+
