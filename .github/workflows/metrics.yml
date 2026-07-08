@@ -9,24 +9,77 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Junior-Ochoa
 
-          # 📁 ARQUIVO DE SAÍDA (ISSO É O QUE FALTAVA)
           filename: github-metrics.svg
 
-          # 📌 Base
+          ########################################
+          ## BASE
+          ########################################
+
           template: classic
           base: header, activity, community, repositories
           config_timezone: America/Sao_Paulo
 
-          # 🎨 Visual
+          ########################################
+          ## VISUAL
+          ########################################
+
           config_display: large
-          config_animations: true
+          config_animations: yes
           config_padding: 8%
-          config_twemoji:_
+
+          ########################################
+          ## LANGUAGES
+          ########################################
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_recent_categories: repositories
+
+          ########################################
+          ## HABITS
+          ########################################
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          ########################################
+          ## CALENDAR
+          ########################################
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          ########################################
+          ## TOPICS
+          ########################################
+
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+
+          ########################################
+          ## STARS
+          ########################################
+
+          plugin_stars: yes
+
+          ########################################
+          ## FOLLOW-UP
+          ########################################
+
+          plugin_followup: yes
