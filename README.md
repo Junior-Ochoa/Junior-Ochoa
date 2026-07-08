@@ -39,6 +39,14 @@
 
 ---
 
+### 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Junior-Ochoa/Junior-Ochoa/main/github-metrics.svg" />
+</div>
+
+---
+
 ### 🔗 Vamos nos conectar?
 
 <div align="center">
