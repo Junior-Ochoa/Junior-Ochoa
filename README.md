@@ -18,17 +18,17 @@
 
 | Projeto | Descrição | Tecnologias | Acessar |
 |:---------|:----------|:------------|:-------:|
-| 🩺 **VitaCore Platform** | Plataforma SaaS para gestão integrada da área da saúde, desenvolvida com foco em performance, escalabilidade e excelente experiência do usuário. | React • Next.js • TypeScript • Node.js • Supabase • REST API | 🔒 Privado |
+| 🩺 **VitaCore Platform** | Plataforma SaaS para gestão integrada da área da saúde, desenvolvida com foco em performance, escalabilidade e excelente experiência do usuário. | React • Next.js • TypeScript • Node.js • Supabase • REST API | 🔒 |
 | 🤖 **Dieta IA** | Aplicação que utiliza Inteligência Artificial para auxiliar na criação de planos alimentares personalizados. | TypeScript • IA | [🔗 Repositório](https://github.com/Junior-Ochoa/dieta_IA) |
+| ✅ **Agenda de Tarefas** | Aplicação para gerenciamento de tarefas com autenticação de usuários utilizando Firebase. | JavaScript • Firebase | [🔗 Repositório](https://github.com/Junior-Ochoa/Agenda_Tarefas_Login) |
 | 💻 **Curso Node.js + React + TypeScript** | Projetos, desafios e aplicações desenvolvidos durante o estudo de desenvolvimento Full Stack. | React • Node.js • TypeScript | [🔗 Repositório](https://github.com/Junior-Ochoa/Curso_NodeJS_React_TypeScript) |
 | 📱 **Curso Android, iOS, Web & Flutter** | Repositório com projetos e estudos voltados ao desenvolvimento multiplataforma e mobile. | Flutter • Android • iOS | [🔗 Repositório](https://github.com/Junior-Ochoa/Curso_Android_iOS_Web_Flutter) |
-| ✅ **Agenda de Tarefas** | Aplicação para gerenciamento de tarefas com autenticação de usuários utilizando Firebase. | JavaScript • Firebase | [🔗 Repositório](https://github.com/Junior-Ochoa/Agenda_Tarefas_Login) |
 
 <div align="center">
 
-⭐ **Explore todos os meus projetos públicos**
+<!--⭐ **Explore todos os meus projetos públicos**
 
-<a href="https://github.com/Junior-Ochoa?tab=repositories">github.com/Junior-Ochoa</a>
+<a href="https://github.com/Junior-Ochoa?tab=repositories">github.com/Junior-Ochoa</a>-->
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ⚡ Evoluindo continuamente em **ReactJS**, **Next.js**, **Node.js**, **Supabase** e arquitetura de software.
 
-📚 Buscando escrever aplicações cada vez mais performáticas, escaláveis e com excelente experiência para o usuário.
+<!--📚 Buscando escrever aplicações cada vez mais performáticas, escaláveis e com excelente experiência para o usuário.-->
 
 </div>
 
